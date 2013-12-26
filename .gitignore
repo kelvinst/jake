@@ -3,7 +3,11 @@
 .bundle
 .config
 coverage
+.yardoc
+Gemfile.lock
 InstalledFiles
+_yardoc
+doc/
 lib/bundler/man
 pkg
 rdoc
